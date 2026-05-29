@@ -2,12 +2,16 @@
 
 ## Features
 
-- Upload PDF files
-- Multiple file upload
-- File size display
-- Upload date display
-- Download files
-- Delete files
+- Single File Upload
+- Multiple File Upload
+- Upload Progress Tracking
+- Upload Status Tracking
+- File Type Display
+- Upload Date Display
+- Total Files Count
+- Total Storage Used
+- Download Files
+- Delete Files
 
 ## Tech Stack
 
